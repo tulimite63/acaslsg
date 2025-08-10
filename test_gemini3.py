@@ -819,6 +819,7 @@ Principios y Organización de la Asociación de Scouts de Venezuela
 Ramon Rodriguez : es el actual presidentes de la ACASLSG ( Asociacion Civil Antiguos Scouts de la Salle Guaparo en Valencia, Carabobo, Venezuela.
 y que tiene ya 20 años de fundada.
 
+Jose Nicolas Borrego Carrero es uno de sus miembros y es el cerebro matematico de la Acaslsg, y es al que mas joden.
 ]
 ---
 
@@ -842,3 +843,4 @@ if st.button("Obtener respuesta"):
     else:
 
         st.error("Por favor, escribe una pregunta.")
+
