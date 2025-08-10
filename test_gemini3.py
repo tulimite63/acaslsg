@@ -814,34 +814,10 @@ Artículo 97. Los Ex-Presidentes de la Corte de Honor, miembros del Comité Cons
 
 en sus funciones, aun con la eliminación de esa instancia.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Principios y Organización de la Asociación de Scouts de Venezuela
 
-
-
+Ramon Rodriguez : es el actual presidentes de la ACASLSG ( Asociacion Civil Antiguos Scouts de la Salle Guaparo en Valencia, Carabobo, Venezuela.
+y que tiene ya 20 años de fundada.
 
 ]
 ---
@@ -864,4 +840,5 @@ if st.button("Obtener respuesta"):
         st.subheader("Respuesta:")
         st.success(response.text)
     else:
+
         st.error("Por favor, escribe una pregunta.")
